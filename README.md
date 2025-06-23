@@ -15,15 +15,6 @@ Criar um joguinho simples e divertido pra jogar entre **amigos e colegas de sala
 - Botão de reinício de jogo
 - Mensagem de "Aguardando o oponente conectar..." até os dois entrarem
 
-## 🚀 Funcionalidades
-
-- Conexão de dois jogadores pela mesma rede
-- Atualização em tempo real das jogadas com WebSocket
-- Indicação de vez de cada jogador
-- Detecção de vitória ou empate
-- Botão de reinício de jogo
-- Mensagem de "Aguardando o oponente conectar..." até os dois entrarem
-
 ## 🛠️ Tecnologias Usadas
 
 - Node.js
@@ -40,5 +31,5 @@ git clone https://github.com/jeanlucas11/jogoDaVelha-multiplayer.git
 cd jogo-da-velha-multiplayer
 npm install
 npm start
-http://<IP_LOCAL>:3000
+http://(IP_LOCAL):3000
 ```
