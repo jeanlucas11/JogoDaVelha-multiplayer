@@ -24,10 +24,10 @@ Criar um joguinho simples e divertido pra jogar entre **amigos e colegas de sala
 
 ## 📡 Como rodar
 
-1. Clona o repositório:
+1. Clona o repositório e acessa a pasta clonada:
 ```bash
-git clone https://github.com/jeanlucas11/jogoDaVelha-multiplayer.git
-cd jogo-da-velha-multiplayer
+git clone https://github.com/jeanlucas11/JogoDaVelha-multiplayer.git
+cd JogoDaVelha-multiplayer
 ```
 2. Instala as Dependências:
 ```b
