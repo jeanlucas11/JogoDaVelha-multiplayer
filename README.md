@@ -25,11 +25,19 @@ Criar um joguinho simples e divertido pra jogar entre **amigos e colegas de sala
 ## 📡 Como rodar
 
 1. Clona o repositório:
-
 ```bash
 git clone https://github.com/jeanlucas11/jogoDaVelha-multiplayer.git
 cd jogo-da-velha-multiplayer
+```
+2. Instala as Dependências:
+```b
 npm install
+```
+3. Inicia o Servidor:
+```b
 npm start
+```
+4. Acessa nno navegador de dois dispositivos conectados na mesma rede:
+```b
 http://(IP_LOCAL):3000
 ```
