@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+#board {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  width: 300px;
+  margin: auto;
+}
+.cell {
+  border: 1px solid #000;
+  font-size: 40px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+#restartBtn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  display: none;
+  border-radius: 5px;
+  background-color: red;
+  color: white;
+}
